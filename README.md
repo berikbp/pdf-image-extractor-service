@@ -21,12 +21,10 @@ and returns them in a single response separated by a predefined delimiter.
 
 \n\n\n\n---
 
-I also added Base64 to PNG Converter, may be if you need it
+## I also added **Base64 to PNG Converter**, may be if you need it
 
 ## How to Run
 
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
-
-
